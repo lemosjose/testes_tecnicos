@@ -1,0 +1,5 @@
+= Repositório Destinados a testes técnicos para empresas
+
+== Teste atual: TargetSistemas
+
+Todas as questões estão com as respostas disponíveis no diretório `src/`. Esse código pode ser apagado ao fim do processo seletivo.
